@@ -1,0 +1,27 @@
+
+First section
+ami protome hedaer section nibo den oi tar moddhe nav bar nibe navbar ke bg-transpatent kore dibo and 
+1 ta row nibo then ar 2 ta div nibo col-6 co; 6 kore tar por responsive kore dibo!
+
+
+
+second section 
+protome akta section nibo oi section er under e akta row nibo oi khane col-12 ke akta title dibo,
+tar por abar 2 ta div nibo 2 ta ke alada col dibo tan list style dia  h1 and p adn ul li dia 2 ta button dia seocnd section end korbo!
+
+third section
+ai section ta akto tuff tai age akta common title nia er por 1 ta row to 3 ta div nia baki kaj gula done korbo.
+next e responsive er somoy sob gula er font size komay dibo height weidth komay dibo
+
+fourth section
+blog post er section ager moto akta common title er cls ta ke nibo then 3 ta div nibo 
+3 ta div er modde 1 ta img er jonno and 1 ta content er jonno nibo and content er modde admin er jono abar akta sub row nia 2 ta div er modde icon and content dia dibo then ager moto h3, p, and ancor tag nia blog section end kore dibo
+
+fifth section
+contact us e same comon title nibo then 1 ta row nia 2 ta div nibo 2 ta div nia akta ke form er jonno rakbo and arek tay icon & content dibo then responsive kore dibo alada alada babe
+
+
+sixte and last section 
+ai footer part e 1 ta contaienr er moddhe 1 ta row nibo then shabab bik babe 4 ta column nibo alada babe h1 and p tag nibo
+tar por er column er jonno common div nia footer header and link er jonno ul li nia kaj suro kore dibo and then responsive er somoy just col-sm-12 dia pura section ke block kore dibo
+
